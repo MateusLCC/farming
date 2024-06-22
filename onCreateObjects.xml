@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<onCreateLoadedObjects>
+    <object saveId="AnimatedObject_porteira09" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_AguaTanque1" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_taipa7" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_AguaTanque3" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_porteira07" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_tombadorCoasul1" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_AguaTanque2" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_taipa2" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_porteira03" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_AguaTanque4" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_portaoa2" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_portaoa" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_porteira11" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_porteira10" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_taipa5" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_portaot" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_taipa9" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_porteiracarneiros" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_tombadorcargil2" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_taipa3" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_taipa8" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_taipa6" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_tombadorcargil" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_porteira06" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_porteiraestrebaria2" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_porteiraporcos" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_porteira05" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_taipa1" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_porteiraestrebaria1" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_taipa4" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_porteira04" time="0.000000" direction="0"/>
+    <object saveId="AnimatedObject_porteira08" time="0.000000" direction="0"/>
+</onCreateLoadedObjects>

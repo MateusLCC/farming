@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<careerSavegame revision="2" valid="true">
+    <settings>
+        <savegameName>Meu jogo salvo</savegameName>
+        <creationDate>2024-06-20</creationDate>
+        <mapId>FS22_AgroNorteV1.SampleModMap</mapId>
+        <mapTitle>Agro Norte V1</mapTitle>
+        <saveDateFormatted>20/06/2024</saveDateFormatted>
+        <saveDate>2024-06-20</saveDate>
+        <resetVehicles>false</resetVehicles>
+        <trafficEnabled>false</trafficEnabled>
+        <stopAndGoBraking>true</stopAndGoBraking>
+        <trailerFillLimit>false</trailerFillLimit>
+        <automaticMotorStartEnabled>false</automaticMotorStartEnabled>
+        <growthMode>1</growthMode>
+        <plannedDaysPerPeriod>1</plannedDaysPerPeriod>
+        <fruitDestruction>true</fruitDestruction>
+        <plowingRequiredEnabled>true</plowingRequiredEnabled>
+        <stonesEnabled>true</stonesEnabled>
+        <weedsEnabled>true</weedsEnabled>
+        <limeRequired>true</limeRequired>
+        <isSnowEnabled>true</isSnowEnabled>
+        <fuelUsage>2</fuelUsage>
+        <helperBuyFuel>true</helperBuyFuel>
+        <helperBuySeeds>true</helperBuySeeds>
+        <helperBuyFertilizer>true</helperBuyFertilizer>
+        <helperSlurrySource>2</helperSlurrySource>
+        <helperManureSource>2</helperManureSource>
+        <densityMapRevision>3</densityMapRevision>
+        <terrainTextureRevision>1</terrainTextureRevision>
+        <terrainLodTextureRevision>2</terrainLodTextureRevision>
+        <splitShapesRevision>2</splitShapesRevision>
+        <tipCollisionRevision>2</tipCollisionRevision>
+        <placementCollisionRevision>2</placementCollisionRevision>
+        <navigationCollisionRevision>2</navigationCollisionRevision>
+        <mapDensityMapRevision>1</mapDensityMapRevision>
+        <mapTerrainTextureRevision>1</mapTerrainTextureRevision>
+        <mapTerrainLodTextureRevision>1</mapTerrainLodTextureRevision>
+        <mapSplitShapesRevision>1</mapSplitShapesRevision>
+        <mapTipCollisionRevision>1</mapTipCollisionRevision>
+        <mapPlacementCollisionRevision>1</mapPlacementCollisionRevision>
+        <mapNavigationCollisionRevision>1</mapNavigationCollisionRevision>
+        <difficulty>2</difficulty>
+        <economicDifficulty>1</economicDifficulty>
+        <dirtInterval>3</dirtInterval>
+        <timeScale>2.000000</timeScale>
+        <autoSaveInterval>15.000000</autoSaveInterval>
+    </settings>
+    <guidedTour active="false" currentStepIndex="0" state=""/>
+    <map>
+        <foundHelpIcons>00000000000000000000</foundHelpIcons>
+    </map>
+    <statistics>
+        <money>877718</money>
+        <playTime>125.835571</playTime>
+    </statistics>
+    <slotSystem slotUsage="475"/>
+    <mapsSplitShapeFileIds count="1">
+        <id id="0"/>
+    </mapsSplitShapeFileIds>
+    <mod modName="FS22_seeds_addon_crossplay" title="Seeds Addon" version="2.0.0.1" required="false" fileHash="b2fbce8262622d4ce01a3e5a437e0c4a"/>
+    <mod modName="FS22_Jacto_NPK_5030" title="Jacto 5030 NPK" version="1.0.0.0" required="false" fileHash="cb8ff6bab1cc9dd3cb556da8278d0bb0"/>
+    <mod modName="FS22_JohnDeere_9RX_2022" title="John Deere 9RX 2022 Series" version="1.0.0.0" required="false" fileHash="bb19aaa2f273049395db4737d7444477"/>
+    <mod modName="FS22_FieldCreator" title="Field Creator" version="1.0.0.0" required="false" fileHash="18f33d2fcb27513e37c8fd3fe9ad978a"/>
+    <mod modName="FS22_LemkenGigant12" title="Lemken Gigant 12" version="1.1.0.0" required="false" fileHash="4f0e4c35789e21f1c41c581fb35dd7e2"/>
+    <mod modName="FS22_SCANIA_STREAMLINE" title="Scania Streamline" version="1.0.0.0" required="false" fileHash="3406e4a106ae3f1e37b9c4ce0397b496"/>
+    <mod modName="FS22_RandonBitrem" title="Randon Bitrem" version="1.0.0.0" required="false" fileHash="e374ea9ad7dc626b17606e3922512095"/>
+    <mod modName="FS22_Lizard_DumperRoadtrain" title="Lizard Cacamba Rodotrem" version="1.0.0.1" required="false" fileHash="713a045cce20a2c5c2684332ca3af924"/>
+    <mod modName="FS22_CaseIH_Quadtrac715" title="Case IH Steiger 715 Quadtrac" version="1.0.0.0" required="false" fileHash="196dedfd00420c3f969d775ec966ebb0"/>
+    <mod modName="FS22_250_Series" title="Case IH Axial-Flow 250 Series" version="1.1.0.0" required="false" fileHash="395ce766818a6867131e1edb133df09f"/>
+    <mod modName="FS22_Randon_Dumper" title="Randon Basculante" version="1.0.0.0" required="false" fileHash="df1c158299a7738f6cf5e5ab6e90c056"/>
+    <mod modName="FS22_TLX_Phoenix" title="TLX Phoenix Series" version="1.2.1.0" required="false" fileHash="b594aef14f47df2897c201f5fd645408"/>
+    <mod modName="FS22_A_ProductionRevamp" title="Production Revamp" version="1.4.3.0" required="false" fileHash="57515aa8afedfd87570642ddf7c77c8a"/>
+    <mod modName="FS22_JohnDeere_HD50F" title="John Deere HD35F/ HD40F/ HD45F/ HD50F /HD62F Articulada" version="3.0.0.0" required="false" fileHash="e4246ac4e69b0f323a84171113bce702"/>
+    <mod modName="FS22_JohnDeere2410" title="John Deere 2410" version="1.2.2.0" required="false" fileHash="024e2e84e367c54edd7556fb655c1e32"/>
+    <mod modName="FS22_CaseIH_340_400TSE_FL" title="Case IH Magnum 340 - 400 Series Special Edition FL" version="1.1.0.3" required="false" fileHash="0e0ada2fd897f193d148702434de20d4"/>
+    <mod modName="FS22_VolkswagenMeteor_pc" title="Volkswagen Meteor" version="1.0.0.0" required="false" fileHash="f45a1d8f7cc996d6ce2edb7750fe4d4b"/>
+    <mod modName="FS22_Jacto_UniportPlanter500" title="Jacto Uniport Planter 500" version="1.0.0.1" required="false" fileHash="ed95e427a72286839b09cee14e53f252"/>
+    <mod modName="FS22_Case_IH_Fast_Riser_6127" title="Case IH Fast Riser 6127" version="1.0.0.0" required="false" fileHash="dbd344da94a134cb9e0482ef4c5b76c6"/>
+    <mod modName="FS22_Valtra_MF_seeder" title="Massey Ferguson 326 And Valtra 2617" version="1.0.0.0" required="false" fileHash="ccad5b7f43783faba5f5627f147ca77d"/>
+    <mod modName="FS22_LiftablePallets" title="Liftable Pallets And Big Bags" version="1.1.2.0" required="false" fileHash="fb8b004f5189798f04bde482d8bf2289"/>
+    <mod modName="FS22_Stara_Imperador_4000" title="Stara Imperador 4000" version="1.0.0.0" required="false" fileHash="249fc9536621b855e5c201e968f8b373"/>
+    <mod modName="FS22_staraImperador3" title="Stara Imperador 3.0" version="1.0.0.0" required="false" fileHash="33d81b5f3ad0e9aa35f1cb6afd100c9b"/>
+    <mod modName="FS22_Midwest_Durus_60ft" title="Midwest Durus 60ft" version="1.0.0.0" required="false" fileHash="d6c483839f81b6d461139e557c03f559"/>
+    <mod modName="FS22_ESC_Large_Shed" title="ESC Galpão Grande" version="1.1.0.0" required="false" fileHash="5e361fa366c593323fc879322ccd940a"/>
+    <mod modName="FS22_AgroNorteV1" title="Agro Norte V1" version="1.0.0.0" required="true" fileHash="31ea11d1d756d9cf8452a188cc29bb3a"/>
+    <mod modName="FS22_seeds_addon" title="Seeds Addon Additional Features" version="1.1.0.1" required="false" fileHash="2891b62bfeb2ff291e782f297604b782"/>
+    <mod modName="FS22_JohnDeere2730" title="John Deere 2730 Arado" version="1.0.0.0" required="false" fileHash="fc09dff4d9bb202a2043fcb9064fd4bd"/>
+    <mod modName="FS22_SCANIA_P310" title="Scania P310" version="1.2.0.0" required="false" fileHash="f7a6539b10c08ec77e675f32ee8e62c7"/>
+    <mod modName="FS22_Old_Shed01" title="Vehicle Shelter Metal" version="1.0.0.0" required="false" fileHash="a29d554f8914ae7febfcb959a276e88d"/>
+    <mod modName="FS22_PassengerExtension" title="Kubota Pack Passenger Extension" version="1.1.0.0" required="false" fileHash="e9e5b1ee9e3fac06169292390e61053d"/>
+    <mod modName="FS22_PACK_CARROCERIA" title="Pack Carroceria" version="1.0.0.0" required="false" fileHash="42312db18ab89f0e539570611244b0ae"/>
+    <mod modName="FS22_Jacto_Uniport_4530" title="Jacto Uniport 4530" version="1.0.0.0" required="false" fileHash="9cc5ed84a0441617264f2ae363b49126"/>
+    <mod modName="FS22_RandonLS" title="Randon LS" version="1.0.0.0" required="false" fileHash="97f70b4ce56c464bbe6806b3baa24f62"/>
+    <mod modName="FS22_Stara_Estrela33" title="Stara Estrela 33" version="1.0.0.0" required="false" fileHash="4fe5ac7ce0871909eb368f1f1d39355f"/>
+    <mod modName="FS22_LimeMission" title="Lime Contracts" version="1.1.0.0" required="false" fileHash="f5820535e0aac9fb587a5b4f9a551412"/>
+    <mod modName="FS22_MPAgro_Taurus_truck" title="MP Agro Taurus Truck" version="1.0.0.0" required="false" fileHash="9206d71b0bca38680cb6f259d2e1990c"/>
+    <mod modName="FS22_MomentumPack" title="Momentum Pack" version="1.0.0.0" required="false" fileHash="c55eae15cb7148bf05a316eee2c728ef"/>
+    <mod modName="FS22_NewHollandT8" title="New Holland T8 US/EU" version="1.1.0.0" required="false" fileHash="de787e5bbdaddd8b081ad029c21e0c42"/>
+    <mod modName="FS22_Vario1000Gen" title="AGCO Vario 1000 US Series" version="1.1.0.1" required="false" fileHash="dfaca5ec0f82c877981d43d7bbc51693"/>
+    <mod modName="FS22_bourgaultSeries3320" title="Bourgault 3320-76 Paralink Hoe Drill + 7950 Air Cart" version="1.0.0.1" required="false" fileHash="ce1a5e2a4fbc2e4326b61e27a3695143"/>
+    <mod modName="FS22_2680H" title="John Deere 2680H High-Performance Disk" version="1.0.0.0" required="false" fileHash="359463c36b7596bdbd2a7ca7cdea2cf2"/>
+    <mod modName="FS22_Caseih_Patriot_350" title="Case IH Patriot 350" version="1.0.0.0" required="false" fileHash="f4d3e2614e08a5a0c364fde91524785f"/>
+    <mod modName="FS22_Kubota_Equipment" title="Kubota Equipment Pack" version="1.0.0.1" required="false" fileHash="719d96fc7abcd1bb318911d20876d4b4"/>
+    <mod modName="FS22_JD_x9_1100" title="John Deere X9 2020 US And EU Version" version="1.0.0.1" required="false" fileHash="b29d8bbe5d6725c44a6c1b0f353903ec"/>
+    <mod modName="FS22_DB120" title="John Deere DB120" version="1.0.0.0" required="false" fileHash="eb6535912c2ff38283420c9b8e2bb9f5"/>
+    <mod modName="FS22_BR_metal_shed" title="Galpão De Metal BR" version="1.0.0.0" required="false" fileHash="a98f311bc9d69f54a355f52d3362f793"/>
+    <mod modName="FS22_FK_Intense_Pack" title="LIZARD FK Intense Pack" version="1.0.0.0" required="false" fileHash="893f0b96f47ebc616f50971bc0209408"/>
+    <mod modName="FS22_Lizard_350_EXCF" title="Lizard 350 EXC F" version="1.0.0.0" required="false" fileHash="9ebcbfe3e48f9ded65caffeb949a6d5b"/>
+    <mod modName="FS22_FieldLease" title="Field Lease" version="1.1.0.0" required="false" fileHash="ef9b1aec3fafbda354b7f53241d11aeb"/>
+    <mod modName="FS22_Randon_BulkCarrier_RLine" title="Graneleiro Randon Linha R" version="1.1.0.0" required="false" fileHash="821a13beee8f206d20ef90f36898b46c"/>
+</careerSavegame>

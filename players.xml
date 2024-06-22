@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<players>
+    <player uniqueUserId="KYWePeiUXcZ5h8/AiCmS2eineGByUcmEB8GH7GTDknc=" timeLastConnected="2024/06/20 22:30">
+        <style filename="dataS/character/humans/player/player01.xml" beardConfigId="trimmed_head01" beardConfigColor="14" bottomConfigId="cargo" bottomConfigColor="8" faceConfigId="head01" faceConfigColor="1" footwearConfigId="workBoots1" footwearConfigColor="3" glassesConfigId="sports1" glassesConfigColor="1" hairStyleConfigId="hair09" hairStyleConfigColor="14" mustacheConfigId="goatee_head01" mustacheConfigColor="14" topConfigId="topPlaidShirt" topConfigColor="13"/>
+    </player>
+    <player uniqueUserId="Us6Y2yjhYLZr03K9fXrRcIgqU5tgY57QxafX3fEOt6Y=" timeLastConnected="2024/06/20 22:30">
+        <style filename="dataS/character/humans/player/player01.xml" beardConfigId="stubble_head01" beardConfigColor="17" bottomConfigId="VolvoPants" bottomConfigColor="1" faceConfigId="head01" faceConfigColor="1" footwearConfigId="eltenArborist" footwearConfigColor="2" glassesConfigId="vintage" glassesConfigColor="1" hairStyleConfigId="hair02" hairStyleConfigColor="17" headgearConfigId="outback" headgearConfigColor="3" mustacheConfigId="goatee_head01" mustacheConfigColor="17" topConfigId="eroSweater" topConfigColor="2"/>
+    </player>
+    <player uniqueUserId="y4wa4Jp0JVnY5ajNrNbSwyM8qBlmkEriEGnKdApC6BM=" timeLastConnected="2024/06/20 22:30">
+        <style filename="dataS/character/humans/player/player01.xml" beardConfigId="soulPatch_head01" beardConfigColor="20" bottomConfigId="leather" bottomConfigColor="2" faceConfigId="head01" faceConfigColor="1" footwearConfigId="galoshes" footwearConfigColor="3" glassesConfigId="sports2" glassesConfigColor="1" glovesConfigId="kevlar" glovesConfigColor="2" hairStyleConfigId="hair15" hairStyleConfigColor="20" mustacheConfigId="upwardHandlebar_head01" mustacheConfigColor="20" topConfigId="topPlaidShirt" topConfigColor="16"/>
+    </player>
+    <player uniqueUserId="zQ9YKyoJpdLYJgqx7vqPruGSe3GE+OdDq20d1IhXdU8=" timeLastConnected="2024/06/20 22:30">
+        <style filename="dataS/character/humans/player/player01.xml" faceConfigId="head01" faceConfigColor="1" glassesConfigId="sports2" glassesConfigColor="1" hairStyleConfigId="hair08" hairStyleConfigColor="6" mustacheConfigId="walrusXL_head01" mustacheConfigColor="6" onepieceConfigId="horschHero" onepieceConfigColor="1"/>
+    </player>
+</players>

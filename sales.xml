@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<sales>
+    <item timeLeft="21" isGenerated="true" xmlFilename="data/vehicles/ropa/keiler2/keiler2.xml" age="37" price="86580" damage="0.537863" wear="0.576429" operatingTime="66805.882812"/>
+    <item timeLeft="4" isGenerated="true" xmlFilename="data/vehicles/newHolland/t6/t6.xml" age="16" price="56783" damage="0.496400" wear="0.342466" operatingTime="47950.312500">
+        <boughtConfiguration name="frontloader" id="2"/>
+    </item>
+    <item timeLeft="22" isGenerated="true" xmlFilename="data/vehicles/valtra/series8750/series8750.xml" age="20" price="56103" damage="0.530709" wear="0.398416" operatingTime="64279.695312"/>
+    <item timeLeft="24" isGenerated="true" xmlFilename="data/vehicles/fliegl/timberRunner/timberRunner.xml" age="13" price="20583" damage="0.442094" wear="0.624781" operatingTime="41498.062500"/>
+</sales>
